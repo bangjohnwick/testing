@@ -7,5 +7,7 @@ This is just a testing description.
 Feature:
 This is just a testing feature.
 1. Feature1
-   - addFeature
-   - deleteFeature
+   -addFeature
+   -updateFeature
+   -deleteFeature
+2. Feature2
