@@ -8,6 +8,6 @@ Feature:
 This is just a testing feature.
 1. Feature1
    -addFeature
-   -removeFeature
    -updateFeature
+   -deleteFeature
 2. Feature2
